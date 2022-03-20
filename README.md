@@ -3,7 +3,7 @@
 ## Utilizando software Mars
 
 * Resolução de problemas
-* laços de repetição
+* Laços de repetição
 * Procedimentos
 * Arrays, índices e ponteios
 * Pilha estática e dinâmica
